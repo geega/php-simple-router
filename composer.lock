@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "0b4f3ad59cd6524ca43eb586b4a3769b",
+    "packages": [
+        {
+            "name": "geega/php-request",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/geega/php-request.git",
+                "reference": "0b1cfba0d6e8e21d2b430fb9b6db37f3f5c8336b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/geega/php-request/zipball/0b1cfba0d6e8e21d2b430fb9b6db37f3f5c8336b",
+                "reference": "0b1cfba0d6e8e21d2b430fb9b6db37f3f5c8336b",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.3 || ^7.0.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Geega\\Request\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Simple php request class",
+            "time": "2017-07-29T15:34:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "geega/php-request": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^5.4|~7"
+    },
+    "platform-dev": []
+}
