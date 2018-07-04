@@ -6,7 +6,7 @@
     "version":"0.0.1",
     "require": {
         "php" : "^5.4|~7",
-        "geega/php-request": "dev-master"
+        "geega/php-request": "0.0.1"
     },
     "archive": {
         "exclude": ["/.git/"]
