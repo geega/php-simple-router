@@ -7,6 +7,9 @@
         "php" : "^5.4|~7",
         "geega/php-request": "dev-master"
     },
+    "archive": {
+        "exclude": ["/.git/"]
+    },
     "autoload": {
         "psr-4": {
             "Geega\\SimpleRouter\\": "src"

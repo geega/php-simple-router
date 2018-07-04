@@ -8,7 +8,7 @@ class Router {
      * @var Request
      */
     private $request;
-    
+
     /**
      * @var array
      */
