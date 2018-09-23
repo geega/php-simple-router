@@ -3,10 +3,10 @@
     "type": "library",
     "description": "Simple php library for route",
     "minimum-stability":"dev",
-    "version":"0.0.2",
+    "version":"0.0.3",
     "require": {
         "php" : "^5.4|~7",
-        "geega/php-request": "0.0.1"
+        "geega/php-request": "0.1.2"
     },
     "archive": {
         "exclude": ["/.git/"]
